@@ -52,6 +52,8 @@ Damping ratio 2 (ζ2) : **0.19** <br>
 
 
 ## 📸 Project Images
+The images below were taken from my assignment report and the equations were prepared using LaTeX for mathematcial formatting.  <br>
+
 ![](images/fbds.png)
 ![](images/assumptions.png)
 ![](images/forcing_term_calc.png)
