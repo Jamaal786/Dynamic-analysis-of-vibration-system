@@ -52,9 +52,18 @@ Damping ratio 2 (ζ2) : **0.19** <br>
 
 
 ## 📸 Project Images
-(Add screenshots here)
+![](images/fbds.png)
+![](images/assumptions.png)
+![](images/forcing_term_calc.png)
+![](images/EOM_calc.png)
+![](images/SS_vibrationAmp_calc.png)
+![](images/my_values_calcs.png)
+![](images/graphs.png)
+![](images/simulink_model.png)
+
+
 
 ## 📚 What I Learned
-- Key engineering insights
-- Challenges
-- Improvements for future work
+- Understood the fundamental knowlegde of spring-damper systems
+- Leant how different components affect a system in a real scenario
+- the use of simulink modelling with matlab workspace
