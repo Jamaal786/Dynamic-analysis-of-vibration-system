@@ -54,14 +54,85 @@ Damping ratio 2 (ζ2) : **0.19** <br>
 ## 📸 Project Images
 The images below were taken from my assignment report and the equations were prepared using LaTeX for mathematcial formatting.  <br>
 
-![](images/fbds.png)
-![](images/assumptions.png)
-![](images/forcing_term_calc.png)
-![](images/EOM_calc.png)
-![](images/SS_vibrationAmp_calc.png)
-![](images/my_values_calcs.png)
-![](images/graphs.png)
-![](images/simulink_model.png)
+<p align="center">
+  <img src="images/fbds.png" width="600">
+</p>
+
+<p align="center">
+  <i>Figure 1: Free body diagram of system</i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/assumptions.png" width="500">
+</p>
+
+<p align="center">
+  <i>Figure 2: Assumptions for scenario</i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/forcing_term_calc.png" width="600">
+</p>
+
+<p align="center">
+  <i>Figure 3: Calculating the forcing term</i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/EOM_calc.png" width="600">
+</p>
+
+<p align="center">
+  <i>Figure 4: Calculating the equations of motion</i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/SS_vibrationAmp_calc.png" width="700">
+</p>
+
+<p align="center">
+  <i>Figure 5: Calculating the steady state vibration amplitude</i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/my_values_calcs.png" width="650">
+</p>
+
+<p align="center">
+  <i>Figure 6: Unique values and calculations </i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/graphs.png" width="550">
+</p>
+
+<p align="center">
+  <i>Figure 7: Graphs from Simulink analysis </i>
+</p>
+
+<!-- -->
+
+<p align="center">
+  <img src="images/simulink_model.png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 8: Simulink model </i>
+</p>
+
+<!-- -->
 
 
 
