@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project related to a new topic we learnt in our dynamics course called vibrations. This project tested our understanind of key concepts and the basic knowledge of spring-damper systems and how the response can affect real life scenarios. In this case, the scenario was a top loading washing machine with washing load in it and how different spring stiffness and damping coefficients affected the vibration induced from the machine as the RPM increased. We were also introduced to simulink and how to model responses from spring-damper systems.
+This project related to a new topic we learnt in our dynamics course called vibrations. This project tested our understanding of the key concepts of spring-damper systems and how the response can affect real scenarios. In this case, the scenario was a top loading washing machine with washing load in it. This projected investigated how different spring stiffness and damping coefficients affected the vibration induced from the machine as the RPM increased. We were also introduced to simulink and how to model responses from spring-damper systems.
 
 ## 🎯 Objectives
 - Evaluate the equations of motions
@@ -19,9 +19,9 @@ This project related to a new topic we learnt in our dynamics course called vibr
 
 ## 🔍 Methodology
 
-To tackle this problem, I first had to read the brief and understand what I needed. I had to refer to my notes and coursebook to get a beter understanding of the fundamentals of the spring damper system and filter what was applicable in this scenario. Once I gathered the relevant information, I drew up Free Body Diagrams (FBD's) to aid in understanding the problem with the forces acting on the machine. After drawing the FBD's, I could state all the important assumptions and calculate the forcing term. The assumptions I made included that there was only a centriptal acceleration of the load acting on the washing machine, the only force acting on the machine is the tension force of the load, and the forcing term is only acting in the x direction. Once the forcing term was calculated, I could derive a full equation of motion. Using the equation of motion, I could derive the steady-state vibration amplitude. Using my given values, I could calculate the natural frequency, damping ratio, and the damping coefficient with a different damping ratio. 
+To tackle this project, I needed to understand the fundamentals of the spring damper system and understand how the mass was interacting with the system. To visualise the problem, I drew up Free Body Diagrams (FBD's) to aid in understanding the problem with the forces acting on the machine. After drawing the FBD's, I stated all the important assumptions and calculate the forcing term. The assumptions I concluded was that there was only a centriptal acceleration of the load acting on the washing machine, the only force acting on the machine was the tension force of the load, and the forcing term was only acting in the x direction. Once the forcing term was calculated, I could derive a full equation of motion. Using the equation of motion, I could derive the steady-state vibration amplitude. Using my uniquely given values, I could calculate the natural frequency, damping ratio, and the damping coefficient with a different damping ratio. <br>
 
-After doing the calculations of my values, I turned to MATLAB and simulink for the modelling and analysis of the system. This was a particular difficult part of the project as we had never used simulink prior to this project. The understanding of how MATLAB workspace could be used in the simulink workspace was tricky to understand. Nevertheless, I still managed to complete the task and get the analysis of the different spring damper systems, with the help of tutorial sessions and brief instructions. 
+Next, I turned to MATLAB and simulink for the modelling and analysis of the system. This was a particular difficult part of the project as I had never used simulink prior to this project. The understanding of how MATLAB workspace could be used in the simulink workspace was challenging to understand. With the help of tutorial sessions and brief instructions, I completed the analysis of the different spring damper systems. 
 
 ## 📊 Results
 <!-- From the analysis, we could see that as the machine speed increases, the vibration amplitude, transmitted forces and transmissibility increases and would peak at 250 rpm. The maximum vibration amplitude with damping ratio 1 (ζ1) was 28.48 mm, while with damping ratio 2 (ζ2), the maximum vibration amplitude was 11.05mm. The maximum amount of transmitted force was 89.91N with ζ1 and 36.69N with ζ2. Lastly, the transmissibility with ζ1 was 0.43 and with ζ2 was 0.19. 
@@ -137,6 +137,6 @@ The images below were taken from my assignment report and the equations were pre
 
 
 ## 📚 What I Learned
-- Understood the fundamental knowlegde of spring-damper systems
+- Understood the fundamental knowledge of spring-damper systems
 - Leant how different components affect a system in a real scenario
-- the use of simulink modelling with matlab workspace
+- The use of simulink modelling with matlab workspace
